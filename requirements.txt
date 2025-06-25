@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy # If you're using this
+psycopg2-binary  # The PostgreSQL adapter
+gunicorn
+werkzeug
+fpdf
+opencv-python
+numpy
+scikit-learn
+joblib
+pandas
+python-dotenv # If you use a .flaskenv file
